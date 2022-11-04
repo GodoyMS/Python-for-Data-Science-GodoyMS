@@ -1,3 +1,3 @@
 # Python-for-Data-Science-GodoyMS
-Written in python
+Written in python using Watson API
 
